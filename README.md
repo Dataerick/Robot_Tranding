@@ -3,6 +3,9 @@
 Robot Trading | Python | Data Science | Alura
 
 
+#aluraChallengeRobotTrading
+
+
 ## Descripción 📄
 
 Este programa en Python es capaz de tomar decisiones de compra y venta de Bitcoin en tiempo real
